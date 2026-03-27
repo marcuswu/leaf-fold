@@ -34,3 +34,10 @@ A [bill of materials](https://docs.google.com/spreadsheets/d/1gnvod9HGQc0NwxPJ2f
 ## Build Guide
 
 A build guide is in the works.
+
+## TODO
+
+* Ensure new ULP switches work
+* Build it & test it
+* Create a build guide
+* Update the BoM (build it into this repo so it is versioned)
